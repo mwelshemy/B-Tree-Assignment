@@ -1,0 +1,4 @@
+Final Tree Structure:
+Level 0: [10] 
+Level 1: [5 6] [12 20] 
+total splits = 1

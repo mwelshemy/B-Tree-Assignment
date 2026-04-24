@@ -1,0 +1,16 @@
+step-by-step log:
+Insert 10:
+Level 0: [10] 
+Insert 20:
+Level 0: [10 20] 
+Insert 5:
+Level 0: [5 10 20] 
+Insert 6:
+Level 0: [10] 
+Level 1: [5 6] [20] 
+Search 20: Found
+Search 99: Not Found
+Insert 12:
+Level 0: [10] 
+Level 1: [5 6] [12 20] 
+total splits = 1

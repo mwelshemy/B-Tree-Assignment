@@ -1,0 +1,9 @@
+I 10
+I 20
+15
+I 5
+I 6
+S 20
+S 99
+INVALID LINE
+I 12
